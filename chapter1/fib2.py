@@ -1,5 +1,5 @@
 '''
-Since the case base has been added in the Fibonacci implementation (number < 2), 
+Since the base case has been added in the Fibonacci implementation (number < 2), 
 the infinite loop doesn't occur anymore. However, this implementation has sufficient performance 
 only for low numbers (such as 5 or 10). For greater numbers (such as 50), 
 the execution won't end ever because the execution tree will grow exponentially.
